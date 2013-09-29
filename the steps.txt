@@ -1,0 +1,5 @@
+put the file inside the folder
+select the file
+commit
+write the comment
+commit and push
