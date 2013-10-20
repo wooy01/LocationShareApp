@@ -1,0 +1,10 @@
+C:\Users\wooy01\Documents\Visual Studio 2012\Projects\LocationShareServer1\LocationShareServer1\bin\Debug\LocationShareServer1.exe.config
+C:\Users\wooy01\Documents\Visual Studio 2012\Projects\LocationShareServer1\LocationShareServer1\bin\Debug\LocationShareServer1.exe
+C:\Users\wooy01\Documents\Visual Studio 2012\Projects\LocationShareServer1\LocationShareServer1\bin\Debug\LocationShareServer1.pdb
+C:\Users\wooy01\Documents\Visual Studio 2012\Projects\LocationShareServer1\LocationShareServer1\bin\Debug\MySql.Data.dll
+C:\Users\wooy01\Documents\Visual Studio 2012\Projects\LocationShareServer1\LocationShareServer1\obj\Debug\LocationShareServer1.csprojResolveAssemblyReference.cache
+C:\Users\wooy01\Documents\Visual Studio 2012\Projects\LocationShareServer1\LocationShareServer1\obj\Debug\LocationShareServer1.exe
+C:\Users\wooy01\Documents\Visual Studio 2012\Projects\LocationShareServer1\LocationShareServer1\obj\Debug\LocationShareServer1.pdb
+C:\Users\wooy01\Desktop\LocationShareApp\LocationShareServer1\LocationShareServer1\bin\Debug\LocationShareServer1.exe.config
+C:\Users\wooy01\Desktop\LocationShareApp\LocationShareServer1\LocationShareServer1\obj\Debug\LocationShareServer1.exe
+C:\Users\wooy01\Desktop\LocationShareApp\LocationShareServer1\LocationShareServer1\obj\Debug\LocationShareServer1.pdb

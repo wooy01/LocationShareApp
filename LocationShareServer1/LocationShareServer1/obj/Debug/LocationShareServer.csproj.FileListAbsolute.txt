@@ -1,0 +1,7 @@
+C:\Users\wooy01\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\wooy01\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\wooy01\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\wooy01\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\MySql.Data.dll
+C:\Users\wooy01\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\LocationShareServer.csprojResolveAssemblyReference.cache
+C:\Users\wooy01\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\wooy01\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
