@@ -1,0 +1,28 @@
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\DBInterface\bin\Debug\x64\SQLite.Interop.dll
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\DBInterface\bin\Debug\x86\SQLite.Interop.dll
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\DBInterface\bin\Debug\DBInterface.dll
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\DBInterface\bin\Debug\DBInterface.pdb
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\DBInterface\bin\Debug\System.Data.SQLite.dll
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\DBInterface\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\DBInterface\bin\Debug\System.Data.SQLite.xml
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\DBInterface\obj\Debug\DBInterface.csprojResolveAssemblyReference.cache
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\DBInterface\obj\Debug\DBInterface.dll
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\DBInterface\obj\Debug\DBInterface.pdb
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\DBInterface\bin\Debug\DataModel.dll
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\DBInterface\bin\Debug\DataModel.pdb
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\DBInterface\bin\Debug\NLog.dll
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\DBInterface\bin\Debug\NLog.xml
+C:\Users\jdoherty\SkyDrive\LocationShare\DBInterface\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\jdoherty\SkyDrive\LocationShare\DBInterface\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\jdoherty\SkyDrive\LocationShare\DBInterface\bin\Debug\DBInterface.dll
+C:\Users\jdoherty\SkyDrive\LocationShare\DBInterface\bin\Debug\DBInterface.pdb
+C:\Users\jdoherty\SkyDrive\LocationShare\DBInterface\bin\Debug\DataModel.dll
+C:\Users\jdoherty\SkyDrive\LocationShare\DBInterface\bin\Debug\NLog.dll
+C:\Users\jdoherty\SkyDrive\LocationShare\DBInterface\bin\Debug\System.Data.SQLite.dll
+C:\Users\jdoherty\SkyDrive\LocationShare\DBInterface\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jdoherty\SkyDrive\LocationShare\DBInterface\bin\Debug\DataModel.pdb
+C:\Users\jdoherty\SkyDrive\LocationShare\DBInterface\bin\Debug\NLog.xml
+C:\Users\jdoherty\SkyDrive\LocationShare\DBInterface\bin\Debug\System.Data.SQLite.xml
+C:\Users\jdoherty\SkyDrive\LocationShare\DBInterface\obj\Debug\DBInterface.csprojResolveAssemblyReference.cache
+C:\Users\jdoherty\SkyDrive\LocationShare\DBInterface\obj\Debug\DBInterface.dll
+C:\Users\jdoherty\SkyDrive\LocationShare\DBInterface\obj\Debug\DBInterface.pdb

@@ -1,9 +1,0 @@
-c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\DataModel\bin\Debug\DataModel.dll
-c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\DataModel\bin\Debug\DataModel.pdb
-c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
-c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\DataModel\obj\Debug\DataModel.dll
-c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\DataModel\obj\Debug\DataModel.pdb
-c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\DataModel\bin\Debug\NLog.dll
-c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\DataModel\bin\Debug\NLog.xml
-c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\DataModel\bin\Debug\Newtonsoft.Json.dll
-c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\DataModel\bin\Debug\Newtonsoft.Json.xml

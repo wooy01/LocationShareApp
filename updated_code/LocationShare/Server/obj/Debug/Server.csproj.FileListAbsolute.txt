@@ -1,0 +1,38 @@
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\Server\bin\Debug\Server.exe.config
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\Server\bin\Debug\Server.exe
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\Server\bin\Debug\Server.pdb
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\Server\obj\Debug\Server.exe
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\Server\obj\Debug\Server.pdb
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\Server\bin\Debug\x64\SQLite.Interop.dll
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\Server\bin\Debug\x86\SQLite.Interop.dll
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\Server\bin\Debug\DataModel.dll
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\Server\bin\Debug\DBInterface.dll
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\Server\bin\Debug\System.Data.SQLite.dll
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\Server\bin\Debug\DataModel.pdb
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\Server\bin\Debug\DBInterface.pdb
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\Server\bin\Debug\System.Data.SQLite.xml
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\Server\bin\Debug\NLog.config
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\Server\bin\Debug\NLog.dll
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\Server\bin\Debug\NLog.xml
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\Server\bin\Debug\Newtonsoft.Json.dll
+c:\users\jdoherty\documents\visual studio 2013\Projects\LocationShare\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jdoherty\SkyDrive\LocationShare\Server\bin\Debug\Server.exe.config
+C:\Users\jdoherty\SkyDrive\LocationShare\Server\obj\Debug\Server.exe
+C:\Users\jdoherty\SkyDrive\LocationShare\Server\obj\Debug\Server.pdb
+C:\Users\jdoherty\SkyDrive\LocationShare\Server\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\jdoherty\SkyDrive\LocationShare\Server\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\jdoherty\SkyDrive\LocationShare\Server\bin\Debug\NLog.config
+C:\Users\jdoherty\SkyDrive\LocationShare\Server\bin\Debug\Server.exe
+C:\Users\jdoherty\SkyDrive\LocationShare\Server\bin\Debug\Server.pdb
+C:\Users\jdoherty\SkyDrive\LocationShare\Server\bin\Debug\DataModel.dll
+C:\Users\jdoherty\SkyDrive\LocationShare\Server\bin\Debug\DBInterface.dll
+C:\Users\jdoherty\SkyDrive\LocationShare\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jdoherty\SkyDrive\LocationShare\Server\bin\Debug\NLog.dll
+C:\Users\jdoherty\SkyDrive\LocationShare\Server\bin\Debug\System.Data.SQLite.dll
+C:\Users\jdoherty\SkyDrive\LocationShare\Server\bin\Debug\DataModel.pdb
+C:\Users\jdoherty\SkyDrive\LocationShare\Server\bin\Debug\DBInterface.pdb
+C:\Users\jdoherty\SkyDrive\LocationShare\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jdoherty\SkyDrive\LocationShare\Server\bin\Debug\NLog.xml
+C:\Users\jdoherty\SkyDrive\LocationShare\Server\bin\Debug\System.Data.SQLite.xml
+C:\Users\jdoherty\SkyDrive\LocationShare\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
