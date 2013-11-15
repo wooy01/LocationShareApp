@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This file is /res/layout/main.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" 
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    
+    <RelativeLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal" >
+
+        <TextView
+            android:id="@+id/distance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"            
+            android:layout_marginLeft="4sp"
+            android:layout_marginTop="12sp"
+            android:textSize="11dp"
+            android:text="Test" />
+
+        <Button
+            android:id="@+id/list"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_margin="5sp"
+            android:text="Route Information" />
+        
+        <Button
+            android:id="@+id/remove"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_margin="5sp"
+            android:text="Remove" />
+    </RelativeLayout>
+    
+     <com.google.android.maps.MapView android:id="@+id/geoMap"
+             android:layout_width="fill_parent"
+             android:layout_height="wrap_content"
+             android:clickable="true"
+             android:apiKey="003rZlN20hJ470Pn2ms8Nxk8NSgaCyMm7Jv-vgw" />
+</LinearLayout>

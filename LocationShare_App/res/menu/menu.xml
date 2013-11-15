@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/map" android:title="@string/map">
+		<menu>
+			<group android:checkableBehavior="single">
+				<item android:id="@+id/satellite" android:title="@string/satellite"
+					android:checked="true" />
+				<item android:id="@+id/normal" android:title="@string/normal" />
+				<item android:id="@+id/center" android:title="@string/center" />			
+			</group>
+		</menu>
+	</item>
+	<item android:id="@+id/messages" android:title="@string/messages">
+		<menu>
+			<group android:checkableBehavior="single">
+				<item android:id="@+id/view_messages" android:title="@string/view_messages" />
+				<item android:id="@+id/create_message" android:title="@string/create_message" />		
+			</group>
+		</menu>
+	</item>
+	<item android:id="@+id/logout" android:title="@string/logout">
+		
+	</item>
+</menu>

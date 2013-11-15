@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/menu" android:title="@string/menu">
+		<menu>
+			<group android:checkableBehavior="single">
+				<item android:id="@+id/scan" android:title="@string/scan" />
+				<item android:id="@+id/camera" android:title="@string/camera" />
+				<item android:id="@+id/save" android:title="@string/save" />			
+			</group>
+		</menu>
+	</item>
+</menu>
